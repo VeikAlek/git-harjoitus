@@ -2,7 +2,5 @@
 
 class Vahenna {
 public:
-	int vahenna();
-private:
-
+	void vahenna();
 };

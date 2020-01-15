@@ -152,6 +152,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Vahenna.cpp" />
     <ClCompile Include="yhteen.cpp" />
   </ItemGroup>
   <ItemGroup>
