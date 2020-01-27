@@ -152,12 +152,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Vahenna.cpp" />
-    <ClCompile Include="yhteen.cpp" />
+    <ClCompile Include="laskin.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="vahenna.h" />
-    <ClInclude Include="yhteen.h" />
+    <ClInclude Include="laskin.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

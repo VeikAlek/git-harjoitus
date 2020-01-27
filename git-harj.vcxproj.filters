@@ -15,21 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="yhteen.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Vahenna.cpp">
+    <ClCompile Include="laskin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="yhteen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="vahenna.h">
+    <ClInclude Include="laskin.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

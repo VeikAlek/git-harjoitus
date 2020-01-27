@@ -1,14 +1,8 @@
 #include<iostream>
-#include "yhteen.h"
-#include "vahenna.h"
-using std::cout;
+#include "laskin.h"
 
 int main() {
-	cout << "Laskin V2: yhteen- tai vahennyslasku! \n ------------------------------ \n";
-	Yhteen x;
-	x.yhteenlaske();
-	Vahenna y;
-	y.vahenna();
-
+	Laskin x;
+	x.laskinloop();
 	return 0;
 }
